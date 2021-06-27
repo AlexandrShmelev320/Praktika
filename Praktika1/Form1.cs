@@ -28,6 +28,7 @@ namespace Praktika1
             Graphics.FromImage(pic1).FillRectangle(b, 0, 0, pic1.Width, pic1.Height);
             x1 = y1 = 0;
             pictureBox1.Image = pic;
+            Console.WriteLine(""):
         }
     }
 }
